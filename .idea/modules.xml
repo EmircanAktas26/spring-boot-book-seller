@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-book-seller.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-book-seller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-book-seller.spring-boot-book-seller.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-book-seller.spring-boot-book-seller.main~1.iml" />
+    </modules>
+  </component>
+</project>
